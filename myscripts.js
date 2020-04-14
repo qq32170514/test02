@@ -1,5 +1,5 @@
 // first we need to create a stage
-<script src="https://unpkg.com/konva@3.4.1/konva.min.js"></script>
+
 var stage = new Konva.Stage({
     container: 'container',   // id of container <div>
     width: 160,
