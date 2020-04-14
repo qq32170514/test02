@@ -1,8 +1,8 @@
 // first we need to create a stage
 var stage = new Konva.Stage({
     container: 'container',   // id of container <div>
-    width: 160,
-    height: 160
+    width: 320,
+    height: 320
   });
   
   // then create a layer
@@ -12,10 +12,10 @@ var stage = new Konva.Stage({
   var circle = new Konva.Circle({
     x: stage.width() / 2,   // x position of the center
     y: stage.height() / 2,  // y position of the center
-    radius: 70,             // circle radius
+    radius: 140,             // circle radius
     fill: 'red',            // color to fill the area
     stroke: 'black',        // color to draw the line
-    strokeWidth: 4          // line width
+    strokeWidth: 10          // line width
   });
   
   // add the shape to the layer
