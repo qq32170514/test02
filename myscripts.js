@@ -1,6 +1,3 @@
-
-
-
 var stage = new Konva.Stage({
     container: 'container',  
     width: 160,
@@ -28,3 +25,5 @@ var stage = new Konva.Stage({
   
  
   layer.draw();
+
+
