@@ -4,12 +4,8 @@ body{
   
 }
 .module{
-    background-image: url(images/IMAG1682.jpg);
+    background-image: url(https://i.imgur.com/Tupptpw.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  opacity: 0.5;
+ 
 }
