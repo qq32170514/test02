@@ -1,6 +1,6 @@
 body{
     background-image: url(images/IMAG1682.jpg);
-    background-size: 100px 100px;
-  
+    background-position: right bottom, left top;
+    background-repeat: no-repeat;
   
 }
