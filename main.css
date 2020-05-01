@@ -16,6 +16,9 @@ div.div0{
 
 div.div0_1{
     background-image: url(https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1579794001699.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100px 100px;
     text-align: center;
     font-weight: bolder;
     color: #ffffff;
