@@ -1,4 +1,4 @@
-body{
+body.body0{
     background-image: url(https://imgur.com/UBOc49E.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -6,7 +6,39 @@ body{
     background-size: cover;
 }
 
-div.top1{
+body.body1{
+    background-image: url(https://imgur.com/UBOc49E.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+body.body2{
+    background-image: url(https://imgur.com/UBOc49E.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+body.body3{
+    background-image: url(https://imgur.com/UBOc49E.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+body.body4{
+    background-image: url(https://imgur.com/UBOc49E.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+div.top0{
     text-align: left;
     font-weight: bolder;
     color: #ffffff;
@@ -16,6 +48,10 @@ div.top1{
     padding: 0px;
     background-color: rgba(0,0,0,0.9);
 }
+
+
+
+
 
 div.div0{
     margin-top: 20px;
