@@ -1,28 +1,59 @@
-// first we need to create a stage
+//Draw a house
+/*
 var stage = new Konva.Stage({
-  container: 'container',   // id of container <div>
-  width: 160,
-  height: 160
-});
+    container:'container',
+    width:500,
+    height:500
+  });
+  
+  var layer = new Konva.Layer();
+  
+  var triangle_1 = new Konva.RegularPolygon({
+    x:250,
+    y:250,
+    sides:3,
+    radius:180,
+    fill:'#009100'
+  });
+  
+  var circle_1 = new Konva.Circle({
+    x: 250,   
+    y: 250,  
+    radius: 35,             
+    fill: 'green',            
+    stroke: 'black',        
+    strokeWidth: 4          
+  });
 
-// then create a layer
-var layer = new Konva.Layer();
+  var circle_2 = new Konva.Circle({
+    x: 250,   
+    y: 250,  
+    radius: 15,             
+    fill: 'black',            
+    stroke: 'black',        
+    strokeWidth: 4          
+  });
 
-// create our shape
-var circle = new Konva.Circle({
-  x: stage.width() / 2,   // x position of the center
-  y: stage.height() / 2,  // y position of the center
-  radius: 70,             // circle radius
-  fill: 'red',            // color to fill the area
-  stroke: 'black',        // color to draw the line
-  strokeWidth: 4          // line width
-});
+  var Line_1 = new Konva.Line({
+    points: [155, 250, 200, 210, 250, 190, 300, 210, 345, 250],
+    stroke: '#02C874',
+    strokeWidth: 15,
+    lineCap: 'round',
+    lineJoin: 'round'
+  });
 
-// add the shape to the layer
-layer.add(circle);
-
-// add the layer to the stage
-stage.add(layer);
-
-// draw the image
-layer.draw();
+  var Line_2 = new Konva.Line({
+    points: [155, 250, 200, 290, 250, 310, 300, 290, 345, 250],
+    stroke: '#02C874',
+    strokeWidth: 15,
+    lineCap: 'round',
+    lineJoin: 'round'
+  });
+  
+  layer.add(triangle_1);
+  layer.add(circle_1);
+  layer.add(circle_2);
+  layer.add(Line_1);
+  layer.add(Line_2);
+  stage.add(layer);
+  layer.draw();*/
