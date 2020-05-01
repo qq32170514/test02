@@ -1,7 +1,6 @@
 body{
     background-image: url(images/IMAG1682.jpg);
     transform: rotate(90deg);
-    background-position:  left top;
     background-repeat: no-repeat;
   
 }
