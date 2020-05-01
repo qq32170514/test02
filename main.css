@@ -7,5 +7,9 @@ body{
     background-image: url(images/IMAG1682.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    filter: opacity(25%);
+    top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
 }
