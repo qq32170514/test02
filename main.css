@@ -6,7 +6,6 @@ body{
 .module{
     background-image: url(images/IMAG1682.jpg);
     background-repeat: no-repeat;
+    background-size: contain;
+  filter: brightness(0.5);
 }
-.filtered {
-    filter: brightness(50%);
-  }
