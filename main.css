@@ -1,6 +1,6 @@
 body{
-
-  }
-  .filtered {
-    filter: brightness(50%);
-  }
+    background-image: url(images/IMAG1682.jpg);
+    background-size: 100px 100px;
+  
+  
+}
