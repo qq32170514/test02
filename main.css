@@ -1,6 +1,6 @@
 body{
     background-image: url(images/IMAG1682.jpg);
-    font-size: 500px;
-	margin: 0px;
-	padding: 0px;
+    .filtered {
+        filter: opacity(70%);
+      }
   }
