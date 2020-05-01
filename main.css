@@ -6,6 +6,25 @@ body{
     background-size: cover;
 }
 
+div.div0{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+div.div0_1{
+    background-image: url(https://memeprod.sgp1.digitaloceanspaces.com/user-wtf/1579794001699.jpg);
+    text-align: center;
+    font-weight: bolder;
+    color: #ffffff;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.7);
+}
+
 div.div1{
     margin-left: 200px;
     margin-right: 200px;
@@ -16,9 +35,9 @@ div.div1{
 }
 
 div.div1_1{
+    text-align: center;
+    font-weight: bolder;
     color: #ffffff;
-    margin-top: 10px;
-    margin-bottom: 10px;
     margin-left: 50px;
     margin-right: 50px;
     padding: 20px;
