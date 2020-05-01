@@ -1,8 +1,11 @@
 body{
-    background-image: url(images/IMAG1682.jpg);
-    background-repeat: no-repeat;
+    
     
   
+}
+.module{
+    background-image: url(images/IMAG1682.jpg);
+    background-repeat: no-repeat;
 }
 .filtered {
     filter: brightness(50%);
