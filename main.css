@@ -7,6 +7,8 @@ body{
 }
 
 div.div0{
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 200px;
     margin-right: 200px;
     padding: 20px;
@@ -26,6 +28,8 @@ div.div0_1{
 }
 
 div.div1{
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 200px;
     margin-right: 200px;
     padding: 20px;
