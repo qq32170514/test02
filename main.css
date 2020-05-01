@@ -15,7 +15,9 @@ div.div0{
 }
 
 div.div0_1{
-    
+    text-align: left;
+    font-weight: bolder;
+    color: #ffffff;
     font-weight: bolder;
     margin-left: 50px;
     margin-right: 50px;
