@@ -1,7 +1,6 @@
 body{
-    background-image: url(images/IMAG1682.jpg);
-  
+
   }
   .filtered {
-    filter: opacity(70%);
+    filter: brightness(50%);
   }
