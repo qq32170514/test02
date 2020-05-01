@@ -9,6 +9,6 @@ body{
 div.div1{
     padding: 20px;
     border-style: solid;
-    border:20px black;
+    border-width: 10px;
 
 }
