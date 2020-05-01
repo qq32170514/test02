@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 
-div1{
+div.div1{
     padding: 10px;
     border:5px black;
 
