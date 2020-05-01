@@ -6,6 +6,17 @@ body{
     background-size: cover;
 }
 
+div.top1{
+    text-align: left;
+    font-weight: bolder;
+    color: #ffffff;
+    font-weight: bolder;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.9);
+}
+
 div.div0{
     margin-top: 20px;
     margin-bottom: 20px;
