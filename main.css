@@ -89,6 +89,7 @@ div.div1_1{
     text-align: left;
     font-weight: bolder;
     color: #ffffff;
+    float: left;
     margin-left: 50px;
     margin-right: 50px;
     padding: 20px;
