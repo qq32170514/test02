@@ -61,7 +61,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #73BF00;
   text-decoration: underline;
 }
 
@@ -91,12 +91,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #73BF00;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #73BF00;
   color: #fff;
 }
 
@@ -165,7 +165,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #73BF00;
 }
 
 .mb-30 {
@@ -296,7 +296,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #73BF00;
 }
 
 #about .div-img-bg .about-img img {
@@ -380,11 +380,11 @@ nav ul li a {
 .timeline-event:hover .timeline-event-icon {
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
-  background-color: #b8a07e;
+  background-color: #73BF00;
 }
 
 .timeline-event:hover .timeline-event-thumbnail {
-  box-shadow: inset 40em 0 0 0 #b8a07e;
+  box-shadow: inset 40em 0 0 0 #73BF00;
 }
 
 .timeline-event-copy {
@@ -419,7 +419,7 @@ nav ul li a {
   transition: transform 0.2s ease-in, -webkit-transform 0.2s ease-in;
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #b8a07e;
+  background-color: #73BF00;
   outline: 10px solid #ffffff;
   display: block;
   margin: 0.5em 0.5em 0.5em -0.5em;
@@ -441,7 +441,7 @@ nav ul li a {
   font-size: 12px;
   font-weight: bold;
   background-color: black;
-  box-shadow: inset 0 0 0 0em #b8a07e;
+  box-shadow: inset 0 0 0 0em #73BF00;
   display: inline-block;
   margin-bottom: 1.2em;
   padding: 0.25em 1em 0.2em 1em;
@@ -480,7 +480,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #73BF00;
   line-height: 44px;
 }
 
@@ -507,7 +507,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #73BF00;
 }
 
 .owl-nav {
@@ -552,7 +552,7 @@ nav ul li a {
 }
 
 #portfolio .portfolio-list .nav li:hover, #portfolio .portfolio-list .nav li.filter-active  {
-  color: #b8a07e;
+  color: #73BF00;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -627,7 +627,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover .journal-txt h3 a:hover{
-  color: #b8a07e;
+  color: #73BF00;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
@@ -738,7 +738,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #73BF00;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
